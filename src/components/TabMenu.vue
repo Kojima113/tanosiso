@@ -1,5 +1,5 @@
 <template>
-  <div class="example">
+  <div class="tabs">
     <div id="tab">
       <TabItem
         v-for="item in list"

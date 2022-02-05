@@ -23,7 +23,7 @@ export default {
 .tab {
   background: purple;
   color: green;
-  width: 30%;
+  width: 33%;
   font-size: 200%;
 }
 .tab:hover {
